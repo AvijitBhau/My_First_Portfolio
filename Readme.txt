@@ -1,0 +1,1 @@
+This portfolio works best on desktops only, For now its not made responsive for other devices.
