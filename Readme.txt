@@ -1,1 +1,1 @@
-This portfolio works best on desktops only, For now its not made responsive for other devices.
+# Portfolio By AvijitBhau (also known as Avijitfolio)
